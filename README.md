@@ -1,23 +1,10 @@
-# Maid Match
-Encontre sua doméstica
+# Learn You
 
-### Onde encontrar o Python
-- https://www.python.org/downloads/
+### Onde encontrar o JavaScript
+- https://nodejs.org/en/download/
 
-### Django
-- https://www.djangoproject.com/
-
-### Gerenciador de Pacotes
-- https://python-poetry.org/docs/
-
-### Ambiente de trabalho
-- https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
-
-### Instalando Dependências
-- pip3 install -r requirements/dev.txt
-
-### Como fazer testes no Django
-- https://docs.djangoproject.com/en/4.0/topics/testing/tools/
+### React
+- https://reactjs.org/
 
 ### CircleCI
 - Main
